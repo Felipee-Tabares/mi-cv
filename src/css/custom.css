@@ -1,0 +1,38 @@
+.MuiTypography-h2 {
+    font-size: 3.75vh !important;
+}
+
+.made-with-react-vitae {
+    display: none !important;
+}
+
+.MuiLinearProgress-bar {
+    transform: translateX(0%) !important;
+}
+
+.MuiLinearProgress-bar:nth-of-type(1) {
+    transform: translateX(-34%) !important; /* 80% */
+}
+.MuiLinearProgress-bar:nth-of-type(2) {
+    transform: translateX(-40%) !important; /* 60% */
+}
+.MuiLinearProgress-bar:nth-of-type(3) {
+    transform: translateX(-10%) !important; /* 90% */
+}
+.MuiLinearProgress-bar:nth-of-type(4) {
+    transform: translateX(-30%) !important; /* 70% */
+}
+.MuiLinearProgress-bar:nth-of-type(5) {
+    transform: translateX(-50%) !important; /* 50% */
+}
+
+.MuiTypography-h5[children="Languages"] {
+  /* display: none !important; */
+}
+
+/* Oculta el LeftBar original */
+/* .MuiGrid-item.MuiGrid-grid-md-5 {
+  display: none !important;
+} */
+
+

@@ -1,0 +1,209 @@
+{
+    "basic": {
+        "name": "Andres Felipe Tabares Benavides",
+        "label": "Software Engineer | Smart contract's Developer",
+        "email": "aftb20053@gmail.com",
+        "image": "/images/profile.jpg",
+        "summary": [
+            "Software engineer in training with informal experience in on-site and remote customer support; design and management of mobile applications and databases; definition of functionalities for the development and maintenance of systems, test management, support in IT and technology projects; excelling in the handling of languages such as SQL, Python and Solidity. In addition to this, the handling of infrastructure such as coding, with Terraform, with competencies and skills such as detail orientation, productivity, teamwork and problem solving."
+        ],
+        "location": {
+            "address": "Colombia",
+            "city": "Bogota D.C"
+        },
+        "profiles": [
+            {
+                "network": "twitter",
+                "username": "F3l1p3_z",
+                "url": "https://x.com/F3l1p3_z"
+            }
+        ]
+    },
+    "work": [
+    {
+        "name": "Work experience in training",
+        "location": "",
+        "position": "",
+        "url": "",
+        "startDate": "03/2021",
+        "endDate": "Present",
+        "summary": "I excel in Python and am proficient in using Git and GitHub for version control. I have experience in SQL and I am deepening in DynamoDB management in AWS. I specialize in learning and creating smart contracts on the Avalanche blockchain. In addition, I am initiating the development of skills in artificial intelligence, specifically in the creation of AI agents.",
+        "highlights": 
+            ""
+        
+        }
+    ],
+    "education": [
+        {
+            "institution": "Elisa Borrero de Pastrana",
+            "area": "Colegio",
+            "studyType": "Bachiller",
+            "startDate": "01/2010",
+            "endDate": "11/2022",
+            "gpa": "",
+            "courses": []
+        },
+        {
+            "institution": "Manuela Beltran University",
+            "area": "Software Engenerie",
+            "studyType": "Pre-grado",
+            "startDate": "01/2023",
+            "endDate": "",
+            "gpa": "3.3"
+           
+        },
+        {
+            "institution": "Cisco Networking Academy",
+            "area": "Technological Infrastructure",
+            "studyType": "Certification",
+            "startDate": "01/2025",
+            "endDate": "04/2025",
+            "gpa": "3.3"
+           
+        },
+        {
+            "institution": "Avalanche Blockchain",
+            "area": "Avalanche fundamental's certificate",
+            "studyType": "Certification",
+            "startDate": "02/2025",
+            "endDate": "03/2025"          
+        }
+
+    ],
+
+    "skills": [
+        { "name": "AWS - Compute", "level": "Junior", "keywords": ["EC2", "Lambda", "Fargate", "Amplify"] },
+        { "name": "HashiCorp", "level": "Junior", "keywords": ["Terraform (Terragrunt)", "Vault"] },
+        { "name": "Solidity", "level": "Junior", "keywords": ["Smart contract's", "Deployment", "ERC-20"] },
+        { "name": "SQL Server", "level": "Junior", "keywords": ["Configuration", "Integration", "Store Procedures"] },
+        { "name": "Windows Server", "level": "Junior", "keywords": ["Administration", "Powershell", "IIS", "AD"] }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "intermediate  speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Cryptocurrency",
+            "keywords": [
+                "Trading",
+                "Blockchain",
+                "Smart contract's"
+            ]
+        },
+        {
+            "name": "IA",
+            "keywords": [
+                "IA Agents"
+            ]
+        },
+        {
+            "name": "Infraestructure as code",
+            "keywords": [
+                "Terraform"
+            ]
+        }
+    ],
+
+    "projects": [
+        {
+            "name": "HouseCoin ",
+            "description": "Development of a decentralized voting regulation system within residential areas, in order to prioritize fairness and transparency in collective decision making, generating a social impact with respect to the responsibility of a common good. Through a website implementing a smart contract (ERC-20) executed on the Avalanche blockchain.",
+            "highlights": [
+               
+            ],
+            "keywords": [
+                "ERC-20",
+                "Solodity",
+                "AWS"
+            ],
+            "startDate": "25-03-22",
+            "endDate": "In production",
+            "url": "",
+            "roles": [
+                "Founder",
+                "Solutions Architect",
+                "Full Stack Developer",
+                "Smart contract's developer"
+            ],
+            "entity": "HouseCoin",
+            "type": ""
+        },
+
+        {
+            "name": "$UVT roulette fastening system by Smart contract",
+            "description": "It is a system based on smart contracts made with solidity, which allows through a roulette to bet in $UVT, the participant must enter with his wallet the amount he wants to bet, if he loses, the system will immediately deduct twice the amount he entered, but if he wins, he will be transferred from a Hot-Wallet the amount specified at the beginning of the roulette. ",
+            "highlights": [
+               
+            ],
+            "keywords": [
+                "ERC-20",
+                "Solodity",
+                "$UVT",
+                "Smart contract's",
+                "Blockchain"
+                
+            ],
+            "startDate": "25-03-5",
+            "endDate": "",
+            "url": "",
+            "roles": [
+                "Smart contract's developer"
+            ],
+            "entity": "$UVT roulette fastening system by Smart contract",
+            "type": ""
+        },
+        {
+            "name": "@Avalanche Ambassador in training",
+            "description": "I am training to be an ambassador of the Avalanche ecosystem, doing the certifications such as “Avalanche Fundamentals”, actively participating in the network, making content such as videos contesting and winning Bouties and developing in its own network, such as the housing governance system or the $UVT betting system, all running on the Avalanche network. Enthusiastic about the novelties of the network, researching and developing on L1 smart contracts as the new eERC-20, are things that make my training, a passion for WEB3 development.",
+            "highlights": [
+               
+            ],
+            "keywords": [
+                "Avalanche",
+                "Ambassador",
+                "Team1",
+                "Blockchain"
+                
+            ],
+            "startDate": "",
+            "endDate": "",
+            "url": "",
+            "roles": [
+                "Avalanche ambassador Team1"
+            ],
+            "entity": "@Avalanche Ambassador in training",
+            "type": ""
+        },
+        {
+            "name": "creation of the $BCT system using eERC-20",
+            "description": "The $BCT system was developed using the new eERC-20 smart contract format and a rewards system and platform powered by Twitter's Engage de Pousts will be implemented. That is, those who Engage from the website will be rewarded for $xBCT which can be re-staked or can vote to rule on DAO decisions.",
+            "highlights": [
+               
+            ],
+            "keywords": [
+                "Avalanche",
+                "eERC-20",
+                "DAO",
+                "Blockchain",
+                "System voting",
+                "System rewards"
+                
+            ],
+            "startDate": "",
+            "endDate": "",
+            "url": "",
+            "roles": [
+                "Development of smart contracts"
+            ],
+            "entity": "Creation of the $BCT system using eERC-20",
+            "type": ""
+        }
+    ]
+}
